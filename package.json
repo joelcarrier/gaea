@@ -1,0 +1,24 @@
+{
+  "name": "gaea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gaea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "canvas": "^2.0.0-alpha.8",
+    "express": "^4.16.2",
+    "geolib": "^2.0.24",
+    "get-pixels": "^3.3.0",
+    "redis": "^2.8.0",
+    "shortid": "^2.2.8",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.7"
+  }
+}
